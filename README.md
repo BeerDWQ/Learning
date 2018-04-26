@@ -1,4 +1,3 @@
 # Learning
-InHL
-This is my first repository in GitHub.
-Include my practice in HUAWEI HANLIN. 
+<p>This is my first repository in GitHub.</p>
+<p>Include my practice in HUAWEI HANLIN. </p>
