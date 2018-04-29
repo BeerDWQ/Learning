@@ -1,5 +1,8 @@
 package ThreadPractice;
-
+/*
+ *实现Runnable接口
+ *控制打印次数
+ */
 import org.junit.Test;
 
 public class Number implements Runnable{

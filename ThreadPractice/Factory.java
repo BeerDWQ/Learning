@@ -1,4 +1,9 @@
 package ThreadPractice;
+/*
+ *创建两个数组
+ *提供两种打印方法，线程安全的
+ *定义一个flag开关用于切换打印方法
+ */
 import org.junit.Test;
 public class Factory {
 	private boolean flag=false;
